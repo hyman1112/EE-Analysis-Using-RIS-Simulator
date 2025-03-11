@@ -11,7 +11,7 @@
 <br>
 <br>
 
-- 在Location Setting中設定大基站(MBS)、小基站(SBS)、用戶和RIS的位置及數量
+- 在Location Setting中設定大基站（MBS）、小基站（SBS）、用戶和RIS的位置及數量
 
 ![image](https://github.com/user-attachments/assets/19deccc8-248a-4f13-b645-79e1841d1b7e)
 
